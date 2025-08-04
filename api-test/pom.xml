@@ -74,8 +74,6 @@
 			<plugins>
 			</plugins>
 		</pluginManagement>
-
-		<plugins>
 		<plugins>
 			<plugin>
 				<groupId>org.sonatype.central</groupId>
